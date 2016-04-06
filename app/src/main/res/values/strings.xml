@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Intro to SketchUp</string>
+
+
+    <string name="text_scr01">Not a designer but need to conceptualize your idea? \n
+        Use 3D software by Trimble©: SketchUp! \n
+        (free version available for desktop <a href="http://www.sketchup.com">link</a> \n
+        and viewer for mobiles <a href="http://www.sketchup.com/products/sketchup-mobile-viewer">link</a> ) \n
+        SketchUp usually applies to: DIY, architectural projects. It is very useful tool for every creative person!
+        Let\'s get familiar with SketchUp!</string>
+
+    <string name="draw_topic">Drawing in SketchUp</string>
+    <string name="text_scr02">SketchUp has only few drawing tools (a lot of plugins available though).
+        You can Click-drag-release or Click-drag-click. To enter precise dimensions,
+        you just need to type them using keyboard (e.g. 1\'6) right after you finished drawing.
+        Useful shortcuts:
+    </string>
+
+    <string name="warehouse_topic">Get free 3D models</string>
+    <string name="warehouse"> Use free SketchUp models from 3D warehouse! \n
+        Get to warehouse via File/3D Warehouse/Get models… or via this
+        <a href="https://3dwarehouse.sketchup.com">link</a> \n
+        Also, remember to share your own models there!
+    </string>
+
+    <string name="geo_topic">Geolocation</string>
+    <string name="geo">
+        As an example, you can design your dream house with SketchUp.
+        Geolocate your model (File/Geo location/Add location…) to study solar shading. \n
+        Also, 3D terrain to scale will appear in your model.
+    </string>
+
+
+
+
+    <string name="line">[L] - draw line</string>
+    <string name="circle">[C] - draw circle</string>
+    <string name="rectngle">[R] - draw rectngle</string>
+    <string name="arc">[A] - draw arc</string>
+
+
+    <string name="move">[M] - move</string>
+    <string name="rotate">[Q] - rotate</string>
+    <string name="scale">[S] - scale</string>
+    <string name="pp">[P] - push/pull</string>
+    <string name="offset">[F] - offset</string>
+
+    <string name="tape">[T] - measuring tape </string>
+    <string name="eraser">[E] - eraser </string>
+
+    <string name="ad">In need of a personal teacher? Order here:
+        <a href="https://www.fiverr.com/dl3333/teach-you-how-to-draw-a-house-in-3d">my lessons</a>
+    </string>
+
+    <string name="buy">Thanks!</string>
+
+
+</resources>
